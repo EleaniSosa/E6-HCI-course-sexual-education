@@ -94,38 +94,38 @@ a)	Sí
 b)	No
 
 16.	¿Hay algún tema relacionado con la Educación Sexual que te gustaría que se abordara en tus clases y que no se haya abordado hasta ahora?
-a)	Familias
-b)	Amistad, amor y relaciones románticas
-c)	Tolerancia, inclusión y respeto
-d)	Compromiso a largo plazo y crianza
-e)	Valores y sexualidad
-f)	Derechos humanos y sexualidad
-g)	Cultura, sociedad y sexualidad
-h)	Construcción social del género y de las normas de género
-i)	Igualdad, estereotipos y prejuicios de género
-j)	Violencia de género
-k)	Violencia
-l)	Consentimiento, privacidad e integridad física
-m)	Uso seguro de tecnologías de información y comunicación
-n)	Influencia de las normas y grupos de pares de conductas 
-o)	Toma de decisiones
-p)	Habilidades de comunicación, rechazo y negociación
-q)	Alfabetización mediática y sexualidad
-r)	Como encontrar ayuda y apoyo
-s)	Anatomía y fisiología sexual y reproductiva
-t)	Reproducción
-u)	Pubertad
-v)	Imagen corporal
-w)	Relaciones sexuales, sexualidad y ciclo de vida sexual
-x)	Conducta y respuesta sexuales
-y)	Embarazo y prevención embarazo
-z)	Estigma del VIH y Sida, atención médica, tratamiento y apoyo
-aa)	Como entender, reconocer y reducir el riesgo de ITS, incluido el VIH
-
+       * Familias
+       * Amistad, amor y relaciones románticas
+       * Tolerancia, inclusión y respeto
+       * Compromiso a largo plazo y crianza
+       * Valores y sexualidad
+       * Derechos humanos y sexualidad
+       * Cultura, sociedad y sexualidad
+       * Construcción social del género y de las normas de género
+       * Igualdad, estereotipos y prejuicios de género
+       * Violencia de género
+       * Violencia
+       * Consentimiento, privacidad e integridad física
+       * Uso seguro de tecnologías de información y comunicación
+       * Influencia de las normas y grupos de pares de conductas
+       * Toma de decisiones
+       * Habilidades de comunicación, rechazo y negociación
+       * Alfabetización mediática y sexualidad
+       * Cómo encontrar ayuda y apoyo
+       * Anatomía y fisiología sexual y reproductiva
+       * Reproducción
+       * Pubertad
+       * Imagen corporal
+       * Relaciones sexuales, sexualidad y ciclo de vida sexual
+       * Conducta y respuesta sexuales
+       * Embarazo y prevención embarazo
+       * Estigma del VIH y Sida, atención médica, tratamiento y apoyo
+       * Cómo entender, reconocer y reducir el riesgo de ITS, incluido el VIH
 17.	¿Crees que la educación sexual en tu escuela ha sido útil para tomar decisiones informadas sobre tu salud sexual y reproductiva?
-c)	Sí
-d)	No
-e)	No recibí
+a)	Sí
+b)	No
+c)	No recibí
 
 18.	¿Has recibido información sobre dónde buscar ayuda o apoyo en caso de necesitar asesoramiento sobre cualquier tema que abarque ESI?
-f)	Sí
+a)	Sí
+b)  No
