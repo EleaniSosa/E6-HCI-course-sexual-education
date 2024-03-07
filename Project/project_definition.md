@@ -65,3 +65,21 @@ estudiantes desprovistos de información crucial para su bienestar, desarrollo y
 de esta iniciativa es llenar ese vacío educativo, brindando a los jóvenes herramientas sólidas para adquirir 
 los conocimientos y oportunidades para desarrollar aptitudes y actitudes indispensables para la determinación 
 y gozo de una sexualidad saludable basada en los derechos sexuales y reproductivos. 
+
+## Relevancia 
+
+La relevancia del proyecto radica en su capacidad para abordar una necesidad crucial en la formación integral de 
+los adolescentes. La educación sexual integral es fundamental en la etapa de desarrollo de los jóvenes, 
+ya que les proporciona los conocimientos y habilidades necesarios para tomar decisiones informadas y saludables 
+sobre su sexualidad y relaciones interpersonales. Al reducir la carencia de clases o pláticas sobre este tema en las 
+escuelas de nivel medio superior, el proyecto no solo contribuye a llenar un vacío educativo, sino que también 
+se posiciona como una herramienta efectiva en la prevención de embarazos no deseados, enfermedades de 
+transmisión sexual y situaciones de violencia de género. Además, al promover una cultura de respeto, autonomía 
+y responsabilidad en torno a la sexualidad, el proyecto podría generar un impacto positivo a largo plazo en la salud 
+y el bienestar de la juventud, y en la construcción de sociedades más equitativas y saludables.
+
+## Sistemas similares
+
+1. Programa Integral Protégete: Implementado por la Secretaría de Salud de Yucatán, este programa busca promover el crecimiento y desarrollo integral de la población adolescente y joven del estado mediante acciones de educación sexual integral, prevención de adicciones, violencia y promoción de valores.
+2. Estrategia Estatal para la Prevención del Embarazo en Adolescentes: Implementada por la Secretaría de Salud de Yucatán, busca reducir la tasa de embarazos en adolescentes mediante acciones de educación sexual integral, acceso a métodos anticonceptivos y atención médica especializada.
+
